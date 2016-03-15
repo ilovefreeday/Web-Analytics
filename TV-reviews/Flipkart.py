@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Oct 03 18:46:47 2015
 
-@author: Sapna
-"""
 import time,sys,urllib2
 import requests
 from lxml import html
