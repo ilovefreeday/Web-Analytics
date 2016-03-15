@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Sep 29 19:42:54 2015
-
-@author: Rohini
-"""
 
 import re,urllib2,sys
 browser=urllib2.build_opener()
