@@ -1,0 +1,9 @@
+Laura B.	New Orleans, LA	12	44	4.0	8/28/2014
+Brenda R.	Freehold Township, NJ	0	2	5.0	6/23/2014
+Teresa U.	Staten Island, NY	0	1	5.0	12/24/2014
+Derick E.	Albany, NY	0	5	4.0	9/19/2014
+Melanie C.	New York, NY	36	31	4.0	6/7/2014
+Jenn L.	Manhattan, NY	0	5	4.0	8/12/2014
+Hailey W.	CANAL STREET, NY	3	18	3.0	5/1/2014
+J H.	New Rochelle, NY	0	4	5.0	9/17/2014
+Elle G.	Bloomfield, NJ	0	22	5.0	11/22/2014
