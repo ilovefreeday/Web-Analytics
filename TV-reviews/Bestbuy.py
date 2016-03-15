@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 30 22:08:18 2015
-
-@author: NEPTUNE
-"""
 
 import re
 import time,sys
