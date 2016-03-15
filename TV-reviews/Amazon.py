@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Oct  4 16:29:55 2015
-
-@author: nehaanandpara
-"""
 
 import urllib2,re,sys,time
 
